@@ -4,7 +4,7 @@
 
 I'm a passionate **SDET (Software Development Engineer in Test)** with a knack for crafting **robust and scalable test automation solutions**. I help engineering teams ship **high-quality software faster** through intelligent test strategies and automation.
 
-- 🔭 Currently focused on building advanced **Playwright automation frameworks**
+- 🔭 Currently focused on building advanced **Automation frameworks**
 - 🌱 Learning and applying **API automation** & **performance testing** techniques
 - 💡 Enthusiastic about **CI/CD pipeline integration** and **DevOps automation**
 - 🎯 Mission: To engineer the next-gen test automation frameworks
