@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Nayeem John! 👋
 
-<!--
-**NayeemJohnY/NayeemJohnY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ​ What I Do
+- I build **Automation frameworks** using Selenium, Playwright, Java, Python, TestNG, and Maven.
+- I focus on creating **robust, maintainable automation solutions** for web testing.
 
-Here are some ideas to get you started:
+##  Featured Projects
+| Project | Description |
+|--------|-------------|
+| **open‑cart‑ui‑automation‑playwright** | Functional UI automation with Playwright, Java, TestNG, and Maven. |
+| **ZooplaAssignment** | Web assignment working on Zoopla UI (HTML). |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*(Update as you add more projects.)*
+
+##  Connect with Me
+- [LinkedIN Profile](https://www.linkedin.com/in/nayeemjohny/)
+  
+---
+
+##  What I’m Learning
+- Currently diving deeper into **automated testing frameworks**, exploring integrations and CI/CD pipelines.
+- Planning to ramp up on **API automation** and **performance testing**.
+
+---
+
+##  GitHub Stats
+![NayeemJohnY's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayeemJohnY&theme=radical&show_icons=true)
+
+
