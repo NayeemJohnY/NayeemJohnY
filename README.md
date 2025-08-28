@@ -103,7 +103,8 @@ I'm a passionate **SDET (Software Development Engineer in Test)** with a knack f
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NayeemJohnY&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayeemJohnY&layout=compact&langs_count=8&theme=dark"/>
 <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NayeemJohnY&theme=dark" alt="GitHub Streak" />
+<img height="180em" src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=NayeemJohnY&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D"/>
+
 </div>
 
 ---
