@@ -19,20 +19,30 @@ I'm a passionate **SDET (Software Development Engineer in Test)** with a knack f
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🧪 Automation Tools  
+### 🧪 Test Automation  
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 
 ### ⚙️ CI/CD & Build Tools  
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### 🧰 Dev Tools  
+### 🧰 Development Tools  
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📋 Project & Test Management  
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 </div>
 
@@ -44,12 +54,12 @@ I'm a passionate **SDET (Software Development Engineer in Test)** with a knack f
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🎭 UI Automation: OpenCart</h3>
-<a href="https://github.com/NayeemJohnY/open-cart-ui-automation-playwright" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NayeemJohnY&repo=open-cart-ui-automation-playwright&theme=dark" />
+<h3 align="center">🔐 RoleVault UI Automation</h3>
+<a href="https://github.com/NayeemJohnY/rolevault-ui-playwright-typescript-automation" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NayeemJohnY&repo=rolevault-ui-playwright-typescript-automation&theme=dark" />
 </a>
-<p><strong>Tech:</strong> Java · Playwright · TestNG · Maven</p>
-<p>A modular UI test framework using the Page Object Model with advanced reporting and data-driven testing.</p>
+<p><strong>Tech:</strong> TypeScript · Playwright · POM · Allure</p>
+<p>Modern UI automation framework with TypeScript and Playwright, featuring advanced test patterns and reporting.</p>
 </td>
 
 <td width="50%">
@@ -73,12 +83,30 @@ I'm a passionate **SDET (Software Development Engineer in Test)** with a knack f
 </td>
 
 <td width="50%">
+<h3 align="center">🎭 UI Automation: OpenCart</h3>
+<a href="https://github.com/NayeemJohnY/open-cart-ui-automation-playwright" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NayeemJohnY&repo=open-cart-ui-automation-playwright&theme=dark" />
+</a>
+<p><strong>Tech:</strong> Java · Playwright · TestNG · Maven</p>
+<p>A modular UI test framework using the Page Object Model with advanced reporting and data-driven testing.</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🐍 Book API Python Automation</h3>
+<a href="https://github.com/NayeemJohnY/book-api-python-requests-pytest-automation" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NayeemJohnY&repo=book-api-python-requests-pytest-automation&theme=dark" />
+</a>
+<p><strong>Tech:</strong> Python · Pytest · Requests · REST APIs</p>
+<p>Comprehensive API testing framework using Python with pytest, featuring request validation and automated reporting.</p>
+</td>
+<td width="50%">
 <h3 align="center">🏠 Zoopla Frontend Assignment</h3>
 <a href="https://github.com/NayeemJohnY/ZooplaAssignment" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=NayeemJohnY&repo=ZooplaAssignment&theme=dark" />
 </a>
-<p><strong>Tech:</strong> HTML · CSS · JavaScript</p>
-<p>Modern responsive frontend built as part of a technical assessment.</p>
+<p><strong>Tech:</strong> Java · Selenium · TestNG · Maven </p>
+<p>A modular UI test framework using the Page Object Model with Java Selenium</p>
 </td>
 </tr>
 </table>
